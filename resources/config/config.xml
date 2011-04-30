@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<prevent>
+	<towers>
+		<light dps="1" cost="4" traversable="false" sprite="sturret.png"></light>
+		<medium dps="2" cost="5" traversable="false" sprite="mturret.png"></medium>
+		<heavy dps="3" cost="6" traversable="false" sprite="hturret.png"></heavy>
+	</towers>
+	<units>
+		<soldier sprite="unit.png" speed="3" health="100"></soldier>
+		<humvee sprite="humvee.png" speed="2" health="200"></humvee>
+		<tank sprite="tank.png" speed="1" health="300"></tank>
+	</units>
+	<strings>
+	   <credits>Programming: Ben 'byte' Lakey (me@bytesrc.com)\nTesters: Jason Chen\, James Lee\, Ian Richardson\, Susanna Lakey</credits>
+	   <tutorial>Prevent the units from reaching the other side.\nClick a sector to bring up a menu to place a tower.\nClick a tower to upgrade it, or sell it for a refund (with a penalty).\nYou have a limited number of lives, which decreases each time a unit finishes.</tutorial>
+	   <title>Prevent</title>
+	</strings>
+</prevent>
