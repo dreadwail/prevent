@@ -11,7 +11,7 @@
 		<tank sprite="tank.png" speed="1" health="300"></tank>
 	</units>
 	<strings>
-	   <credits>Programming: Ben 'byte' Lakey (me@bytesrc.com)\nTesters: Jason Chen\, James Lee\, Ian Richardson\, Susanna Lakey</credits>
+	   <credits>Programming: Ben Lakey (benlakey@gmail.com)</credits>
 	   <tutorial>Prevent the units from reaching the other side.\nClick a sector to bring up a menu to place a tower.\nClick a tower to upgrade it, or sell it for a refund (with a penalty).\nYou have a limited number of lives, which decreases each time a unit finishes.</tutorial>
 	   <title>Prevent</title>
 	</strings>
